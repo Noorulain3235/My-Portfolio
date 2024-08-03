@@ -1,0 +1,270 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+*{
+    top: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar {
+    background-color: hsla(0, 0%, 0%, 0.5);
+    height: 80px;
+}
+
+.navbar-brand{
+    /* color: white; */
+    margin-left: 80px;
+    font-size: 27px;
+}
+.homepage{
+    margin-left: 660px;
+    font-size: 19px;
+}
+.homepage:hover{
+    margin-left: 660px;
+    font-size: 19px;
+    background-color: teal;
+
+}
+.page2{
+    margin-left: 60px;
+    font-size: 19px;
+}
+.page2:hover{
+    margin-left: 60px;
+    font-size: 19px;
+    background-color: teal;
+    
+}
+.page3{
+    margin-left: 60px;
+    font-size: 19px;
+}
+.page3:hover{
+    margin-left: 60px;
+    font-size: 19px;
+    background-color: teal;
+    
+}
+.page4{
+    margin-left: 60px;
+    font-size: 19px;
+}
+.page4:hover{
+    margin-left: 60px;
+    font-size: 19px;
+    background-color: teal;
+    
+}
+.page5{
+    margin-left: 60px;
+    font-size: 19px;
+}
+.page5:hover{
+    margin-left: 60px;
+    font-size: 19px;
+    background-color: teal;
+    
+}
+
+
+.c1{
+    height: 600px;
+    width: 80%;
+    background-color: hsla(0, 0%, 0%, 0.5);
+    margin-top: 7%;
+    margin-left: 10%;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: row;    
+}
+.c2{
+    height: 500px;
+    width: 40%;
+    background-color: transparent;
+    margin-top: 50px;
+    margin-left: 10%;
+}
+.c3{
+    font-family: "Acme", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   font-size: 95px;
+   margin-left: 15%;
+   margin-top: 5%;
+   color: white;
+}
+.c4{
+    font-family: "Acme", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   font-size: 95px;
+   margin-left: 25%;
+   color: white;
+   margin-top: -35px;
+}
+.c5{
+    font-family: "Acme", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   font-size: 95px;
+   margin-left: 7%;
+   margin-top: -35px;
+   color: white;
+}
+.c6{
+    font-family: "Acme", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   font-size: 95px;
+   margin-left: 25%;
+   margin-top: -35px;
+   color: white;
+}
+.c7{
+    font-family: "Acme", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   font-size: 20px;
+   margin-left: 65%;
+   margin-top: 20px;
+   color: white;
+}
+.c8{
+    height: 500px;
+    width: 36%;
+    background-color: transparent;
+    margin-top: 50px;
+    margin-left: 4%;
+}
+.c9{
+    font-family: "Acme", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   font-size: 30px;
+   margin-left: 15%;
+   margin-top: 17%;
+   color: white;
+}
+.c10{
+    height: 150px;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    margin-top: 20px;
+    margin-left: 20%;
+}
+.c11{
+    height: 60px;
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    background-color: transparent;
+    margin-left: 20%;
+    margin-top: 10px;
+}
+.phone{
+    margin-top: 5px;
+    color: teal;
+}
+.c12{
+    margin-left: 3px;
+    color: white;
+}
+.c13{
+    height: 60px;
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    background-color: transparent;
+    margin-left: 20%;
+}
+.letter{
+    margin-top: 5px;
+    color: teal;
+}
+.c14{
+    margin-left: 25px;
+    color: white;
+}
+.c15{
+    height: 60px;
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    background-color: transparent;
+    margin-left: 20%;
+}
+.loc{
+    margin-top: 5px;
+    color: teal;
+}
+.c16{
+    margin-left: 5px;
+    color: white;
+}
+   
+
+
+
+
+.main9{
+    background-color: transparent;
+    margin-top: 10%;
+    margin-left: 10%;
+    height: 100px;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+}
+.link{
+    border-radius: 70px;
+    background-color: teal;
+    margin-top: 5%;
+    margin-left: 4%;
+}
+.git{
+    border-radius: 70px;
+    background-color: teal;
+    margin-top: 5%;
+    margin-left: 2%;
+}
+.facebook{
+    border-radius: 70px;
+    background-color: teal;
+    margin-top: 5%;
+    margin-left: 2%;
+}
+.twitter{
+    height: 60px;
+    width: 60px;
+    border-radius: 70px;
+    position: absolute;
+}
+.insta{
+    height: 60px;
+    width: 60px;
+    border-radius: 70px;
+    background-color: teal;
+    position: absolute;
+}
+.box{
+    height: 60px;
+    width: 60px;
+    border-radius: 70px;
+    margin-left: 2%;
+    border: 2px solid black;
+    margin-top: 5%;
+    position: relative;
+}
+.box1{
+    margin-top: 5%;
+    height: 60px;
+    width: 60px;
+    border-radius: 70px;
+    margin-left: 2%;
+    border: 2px solid black;
+    position: relative;
+}
+
+

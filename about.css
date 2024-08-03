@@ -1,0 +1,203 @@
+.navbar {
+    background-color: hsla(0, 0%, 0%, 0.5);
+    height: 80px;
+}
+
+.navbar-brand{
+    /* color: white; */
+    margin-left: 80px;
+    font-size: 27px;
+}
+.homepage{
+    margin-left: 660px;
+    font-size: 19px;
+}
+.homepage:hover{
+    margin-left: 660px;
+    font-size: 19px;
+    background-color: teal;
+
+}
+.page2{
+    margin-left: 60px;
+    font-size: 19px;
+}
+.page2:hover{
+    margin-left: 60px;
+    font-size: 19px;
+    background-color: teal;
+    
+}
+.page3{
+    margin-left: 60px;
+    font-size: 19px;
+}
+.page3:hover{
+    margin-left: 60px;
+    font-size: 19px;
+    background-color: teal;
+    
+}
+.page4{
+    margin-left: 60px;
+    font-size: 19px;
+}
+.page4:hover{
+    margin-left: 60px;
+    font-size: 19px;
+    background-color: teal;
+    
+}
+.page5{
+    margin-left: 60px;
+    font-size: 19px;
+}
+.page5:hover{
+    margin-left: 60px;
+    font-size: 19px;
+    background-color: teal;
+    
+}
+
+
+
+.main{
+    height: 500px;
+    width: 80%;
+    margin-top: 12%;
+    margin-left: 10%;
+    background-color: hsla(0, 0%, 0%, 0.9);
+    position: relative;
+    border-radius: 40px;
+}
+.main1{
+    position: absolute;
+    background-color: transparent;
+    margin-top: 5%;
+    margin-left: 10%;
+    height: 400px;
+    width: 60%;
+}
+.main2{
+    margin-top: 5%;
+    background-color: transparent;
+    margin-left: 4%;
+    color: white;
+    font-weight: bold;
+}
+.main3{
+    margin-top: 2%;
+  color: white;
+  background-color: transparent;
+  margin-left: 4%;
+  font-weight: 700;
+}
+.main4{
+    display: flex;
+    flex-direction: row;
+    margin-top: 2%;
+    margin-left: 4%;
+    background-color: transparent;
+}
+.main5{
+    color: white;
+    background-color: transparent;
+    font-weight: bold;
+}
+.main6{
+    color: teal;
+    background-color: transparent;
+    margin-left: 8px;
+    font-weight: bold;
+}
+.main7{
+    color: white;
+  background-color: transparent;
+  margin-left: 4%;
+  margin-top: 5%;
+}
+.main8{
+    margin-left: 4%;
+    margin-top: 2%;
+    height: 40px;
+    width: 120px;
+    text-align: center;
+    color: white;
+    background-color: teal;
+    border-radius: 20px;
+    border: 2px solid teal;
+}
+.main9{
+    position: absolute;
+    background-color: transparent;
+    margin-top: 5%;
+    margin-left: 79%;
+    /* border: 2px solid black; */
+    height: 400px;
+    width: 10%;
+    display: flex;
+    flex-direction: column;
+}
+.link{
+    border-radius: 70px;
+    background-color: teal;
+    margin-top: 20%;
+    margin-left: 20%;
+}
+.git{
+    border-radius: 70px;
+    background-color: teal;
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-bottom: 10%;
+}
+.facebook{
+    border-radius: 70px;
+    background-color: teal;
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-bottom: 10%;
+}
+.twitter{
+    height: 60px;
+    width: 60px;
+    border-radius: 70px;
+    position: absolute;
+}
+.insta{
+    height: 60px;
+    width: 60px;
+    border-radius: 70px;
+    background-color: teal;
+    position: absolute;
+}
+.box{
+    height: 60px;
+    width: 60px;
+    border-radius: 70px;
+    margin-left: 20%;
+    border: 2px solid black;
+    position: relative;
+}
+.box1{
+    height: 60px;
+    width: 60px;
+    border-radius: 70px;
+    margin-left: 20%;
+    border: 2px solid black;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
